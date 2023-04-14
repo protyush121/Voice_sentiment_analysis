@@ -1,4 +1,5 @@
 
+import pyaudio
 import streamlit as st
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import speech_recognition as sr
