@@ -3,3 +3,4 @@ streamlit==1.21.0
 vaderSentiment==3.3.2
 vaderSentiment==3.3.2
 PyAudio==0.2.11
+PyAudio @ file:///C:/Users/proty/pipwin/PyAudio-0.2.11-cp310-cp310-win_amd64.whl
