@@ -1,0 +1,4 @@
+SpeechRecognition==3.10.0
+streamlit==1.21.0
+vaderSentiment==3.3.2
+vaderSentiment==3.3.2
